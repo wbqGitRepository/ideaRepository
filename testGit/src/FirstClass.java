@@ -3,6 +3,7 @@ public class FirstClass {
         System.out.println("aaaaa");
         System.out.println("testpush");
         System.out.println("testmerge1");
+        System.out.println("testmerge2");
     }
     int i = 0;
 }
